@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DPEmployeeTask/Controller/SignUpViewController.swift"
+            timestampString = "553193523.366115"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "sendingsignUpDataToFireBase(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DPEmployeeTask/Controller/SignUpViewController.swift"
+            timestampString = "553193523.366219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "sendingsignUpDataToFireBase(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (DPEmployeeTask.SignUpModel, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DPEmployeeTask.SignUpViewController.(sendingsignUpDataToFireBase in _C61BDA53FD6270E7914A42594C6FDE25)(DPEmployeeTask.SignUpModel) -&gt; ()"
+                  moduleName = "DPEmployeeTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varunpeddi/Desktop/DPEmployeeTask/DPEmployeeTask/Controller/SignUpViewController.swift"
+                  timestampString = "553246106.166474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.UIAlertAction) -&gt; () in closure #1 (DPEmployeeTask.SignUpModel, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DPEmployeeTask.SignUpViewController.(sendingsignUpDataToFireBase in _C61BDA53FD6270E7914A42594C6FDE25)(DPEmployeeTask.SignUpModel) -&gt; ()"
+                  moduleName = "DPEmployeeTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/varunpeddi/Desktop/DPEmployeeTask/DPEmployeeTask/Controller/SignUpViewController.swift"
+                  timestampString = "553246106.169732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DPEmployeeTask/View/EmployeeView.swift"
+            timestampString = "553247289.9220639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DPEmployeeTask/Model/FireBaseServiceManager/FetchFireBaseUsersManager.swift"
+            timestampString = "553246213.509784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchingRegisterFriendsCallRequestApi(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
